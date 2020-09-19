@@ -1,5 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Passos para a criação do projeto
+
+    npx create-react-app exemplo-dio-covid
+    npm i styled-components
+    npm i @material-ui/core
+    configurar o jsconfig.json
+    configurar o config-overrides.js
+    npm i @material-ui/lab
+    npm i --save-dev customize-cra
+    npm i --save-dev react-app-rewired
+    
+    
 ## Available Scripts
 
 In the project directory, you can run:
