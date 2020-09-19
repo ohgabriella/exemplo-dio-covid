@@ -10,8 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
     configurar o config-overrides.js
     npm i @material-ui/lab
     npm i --save-dev customize-cra
-    npm i --save-dev react-app-rewired
-    
+    adicionar o manifesto e worker para trabalhar com pwa    
     
 ## Available Scripts
 
